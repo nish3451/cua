@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.38.1](https://github.com/trycua/cua/compare/cua-driver-rs-v0.38.0...cua-driver-rs-v0.38.1) (2026-10-21)
+
+
+### Bug Fixes
+
+* **cua-driver:** keys for a popup an MPX click opened go through the master keyboard of the session that clicked ([#5652](https://github.com/trycua/cua/issues/5652)) ([d51eb65](https://github.com/trycua/cua/commit/d51eb65f3322ac9a731e587ae59cee604a547eb1))
+
 ## [0.38.0](https://github.com/trycua/cua/compare/cua-driver-rs-v0.37.0...cua-driver-rs-v0.38.0) (2026-10-20)
 
 
